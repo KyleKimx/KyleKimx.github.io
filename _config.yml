@@ -21,7 +21,7 @@ title                    : "Kyle Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Byounguk(Kyle) Kim"
-description              : "Hello"
+description              : "Hi, I'm Byounguk, a Computer Science major at Rutgers University - New Brunswick. I'm passionate about coding, problem-solving, and exploring new technologies. My interests range from software development to artificial intelligence, and I aspire to contribute to innovative projects that make a real-world impact. In my spare time, I enjoy programming and working out, and I’m always looking for opportunities to collaborate with others and expand my skills."
 url                      : "https://KyleKimx.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -113,10 +113,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Byounguk Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "Hi, I'm Byounguk, a Computer Science major at Rutgers University - New Brunswick. I'm passionate about coding, problem-solving, and exploring new technologies. My interests range from software development to artificial intelligence, and I aspire to contribute to innovative projects that make a real-world impact. In my spare time, I enjoy programming and working out, and I’m always looking for opportunities to collaborate with others and expand my skills."
+  location         : "New Brunswick"
   email            :
   links:
     - label: "Email"
